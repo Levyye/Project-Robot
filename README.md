@@ -5,6 +5,9 @@
 um robô que desvia de obstáculos / a Robot that dodge obstacles
 <h1 align="center">I,ROBOT</h1>
 <h3 align="center"></h3>
-<hr>
+<hr>AUTORES
+levyye
+rafaasouza
+vivian
 
 
